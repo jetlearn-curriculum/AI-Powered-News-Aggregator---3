@@ -1,7 +1,14 @@
 {
   "topic": "Science News",
-  "updatedAt": "2026-11-25T19:23:00.916Z",
+  "updatedAt": "2026-11-26T03:37:33.068Z",
   "articles": [
+    {
+      "title": "Insects once had 24 legs",
+      "link": "https://www.snexplores.org/article/insects-had-24-legs",
+      "published": "2026-11-25T11:30:00.000Z",
+      "snippet": "A many-legged creature from long ago helps fill a major gap in the fossil record — and hints at how today’s insects ended up with just six legs.",
+      "summary": "An ancient many-legged creature helps fill a major gap in the fossil record. This ancient animal also hints at how today's insects ended up with just six legs."
+    },
     {
       "title": "Insects once had 24 legs",
       "link": "https://www.snexplores.org/article/insects-had-24-legs",
@@ -14,7 +21,21 @@
       "link": "https://www.snexplores.org/article/new-living-cat-species",
       "published": "2026-11-24T11:30:00.000Z",
       "snippet": "Genetic tests on two of these teeny tiger cats, found in Bolivia, show they constitute a new species. They add a new branch to the feline family tree.",
-      "summary": null
+      "summary": "Genetic tests on two tiny tiger cats found in Bolivia show they are a brand new species. This discovery adds a new branch to the feline family tree for the first time in over a century."
+    },
+    {
+      "title": "Hydrogels could help stop wildfires from reigniting, teens find",
+      "link": "https://www.snexplores.org/article/hydrogels-stop-wildfire-reigniting-jic",
+      "published": "2026-11-24T11:30:00.000Z",
+      "snippet": "The brothers custom built a nozzle to spray their fire-retardant hydrogels up to 60 feet.",
+      "summary": "Two teenage brothers created a custom nozzle that can spray fire-retardant hydrogels up to 60 feet. This invention could help prevent wildfires from reigniting."
+    },
+    {
+      "title": "Meet the first new living cat species described in more than a century",
+      "link": "https://www.snexplores.org/article/new-living-cat-species",
+      "published": "2026-11-24T11:30:00.000Z",
+      "snippet": "Genetic tests on two of these teeny tiger cats, found in Bolivia, show they constitute a new species. They add a new branch to the feline family tree.",
+      "summary": "Genetic tests on two tiny tiger cats from Bolivia show they are a brand new species. This discovery adds a new branch to the feline family tree for the first time in over a hundred years."
     },
     {
       "title": "Hydrogels could help stop wildfires from reigniting, teens find",
@@ -64,27 +85,6 @@
       "published": "2026-11-24T11:30:00.000Z",
       "snippet": "The brothers custom built a nozzle to spray their fire-retardant hydrogels up to 60 feet.",
       "summary": "Two teenage brothers created a special nozzle to spray fire-retardant hydrogels up to 60 feet. This invention could help stop wildfires from reigniting."
-    },
-    {
-      "title": "Scientists Say: Noise",
-      "link": "https://www.snexplores.org/article/scientists-say-noise-definition-pronunciation",
-      "published": "2026-11-23T11:30:00.000Z",
-      "snippet": "To analyze a messy set of data, scientists must distinguish real information from background “noise.”",
-      "summary": "To understand messy data, scientists must separate the real information from background noise. This process helps researchers make sense of complicated information."
-    },
-    {
-      "title": "Analyze This: Color might explain baboon’s link to Egyptian god",
-      "link": "https://www.snexplores.org/article/baboon-color-egyptian-moon-god",
-      "published": "2026-11-23T11:30:00.000Z",
-      "snippet": "Ancient Egyptians might have linked hamadryas baboons with the moon god Thoth due to their silvery fur.",
-      "summary": "Ancient Egyptians might have connected hamadryas baboons to the moon god Thoth because of the baboons' silvery fur. This connection shows how the animals' appearance may have influenced ancient beliefs."
-    },
-    {
-      "title": "Scientists Say: Noise",
-      "link": "https://www.snexplores.org/article/scientists-say-noise-definition-pronunciation",
-      "published": "2026-11-23T11:30:00.000Z",
-      "snippet": "To analyze a messy set of data, scientists must distinguish real information from background “noise.”",
-      "summary": "To analyze messy data, scientists must be able to tell the difference between real information and background noise. Separating these two elements is essential for researchers trying to understand their data."
     }
   ]
 }
